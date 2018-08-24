@@ -30,5 +30,3 @@ To test app in local :
 - Run php artisan migrate --seed
 - Run test Unit/userAdminRolesTest.php
 
-
-Live demo app : http://sehara.eu/
